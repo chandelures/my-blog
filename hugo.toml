@@ -1,0 +1,17 @@
+# baseURL = 'http://example.org/'
+languageCode = 'zh-cn'
+title = "Chandelure's Blog"
+theme = 'paper'
+
+[params]
+  github = 'chandelures'
+  rss = true
+  
+  # profile
+  avatar = 'chandelurewang@gmail.com'
+  name = 'chandelure'
+  bio = 'A personal blog by chandelure'
+
+  # misc
+  math = true
+  
